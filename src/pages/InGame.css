@@ -1,0 +1,7 @@
+.endGame {
+  position: absolute;
+  cursor: pointer;
+  bottom: 20px;
+  background: black;
+  right: 20px;
+}
